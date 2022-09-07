@@ -4,14 +4,16 @@
 - 🧑‍💻 I’m currently working on None  
   
 
-- 📝 I’m currently learning Django Rest Framework and Flask  
+- 📝 I’m currently learning React JS
   
 
 - ❓ Ask me about anything related to Django stack and related technologies  
   
 
 - ⚡ Fun fact: It is easier for me to concentrate listening to music than in silence  
-  
+
+
+Confirmation of connection with the page on [weblancer.net](https://www.weblancer.net/users/koval01/).  
 
 <br/>  
 
