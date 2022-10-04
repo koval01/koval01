@@ -4,7 +4,7 @@
 - 🧑‍💻 I’m currently working on None  
   
 
-- 📝 I’m currently learning React JS
+- 📝 I’m currently learning Node JS
   
 
 - ❓ Ask me about anything related to Django stack and related technologies  
