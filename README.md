@@ -1,10 +1,10 @@
 ### <div align="center">I am Yaroslav, I have been working on my own projects since 2016.</div>  
   
 
-- 🧑‍💻 I’m currently working on None  
+- 🧑‍💻 I’m currently working on ```not specified```
   
 
-- 📝 I’m currently learning Node JS
+- 📝 I’m currently learning ```JS frameworks```
   
 
 - ❓ Ask me about anything related to Django stack and related technologies  
