@@ -6,14 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://www.duolingo.com/profile/koval.yaroslav">
-    <img src="https://duolingo-stats-card.vercel.app/api?username=koval.yaroslav&theme=dark&sort=xp" alt="my Duolingo Stats" />
-  </a>
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
